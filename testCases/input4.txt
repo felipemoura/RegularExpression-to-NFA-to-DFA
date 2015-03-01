@@ -1,0 +1,7 @@
+a*b(a*ba*ba*)*a*
+b
+bbb
+ababababab
+aaaaabaaaaa
+e
+aaa
