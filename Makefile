@@ -6,3 +6,6 @@ run:
 	
 clean:
 	@rm *.class
+
+zip:
+	@zip -r RegularExpressionValidator *
